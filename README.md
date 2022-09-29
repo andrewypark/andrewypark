@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a time management web app for a local business<br>🤝 I’m looking for help with what I should practice to help me become a better developer<br>🌱 I’m currently learning firebase, stripe.api, react, redux, and git<br>💬 Ask me about my cleaning routine<br>⚡ Fun fact I have one of the highest hit accuracy percentages in the world as Ana in Overwatch
+🔭 I’m currently working on a time management web app for a local business<br>🌱 I’m currently learning firebase, stripe.api, react, redux, and git<br>💬 Ask me about my cleaning routine<br>⚡ Fun fact I have one of the highest hit accuracy percentages in the world as Ana in Overwatch
 
 
 ## 🌐 Socials:
