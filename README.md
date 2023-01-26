@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🔭 I’m working on a time management web app for a local business<br>🌱 I’m learning firebase, stripe, react, redux, svelte, sveltekit, vite.js, materialUI, and git<br>💬 Ask me about my cleaning routine<br>📫 How to reach me: Email - therealandrewpark@gmail.com<br>⚡ Fun fact I have one of the highest hit accuracy percentages in the world as Ana in Overwatch
 
 ## 🌐 Socials:
